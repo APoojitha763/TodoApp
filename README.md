@@ -27,9 +27,9 @@ Setting Up/ Deploying the Project:</br>
 Flow of the Project : After all the setting up the environment open Android Studio after setting up the project in the IDE there it self we need to run the project we can use  either the terminal by running the commnad "flutter run" or you can directly run the application by clicking on the run in the menu of the application. After the project is build then i pushed the project into the github by creating new repository and cloning all the files into the new repository.
 
 </br>
-ScreenShots of the application:
+ScreenShots of the Todo Application:</br>
 
-![Todo Application SS1](https://github.com/user-attachments/assets/2ca5f532-75f7-4392-92e2-bdb16be768a1)
+![Todo Application SS1](https://github.com/user-attachments/assets/2ca5f532-75f7-4392-92e2-bdb16be768a1)</br>
 
 ![Todo Application SS2](https://github.com/user-attachments/assets/515cb178-8ead-4392-854a-ed80a170a978)
 
