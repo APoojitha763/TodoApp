@@ -16,7 +16,7 @@ Technology Stack:<br/>
    </br>
 Setting Up/ Deploying the Project:</br>
   1) Install Flutter</br>
-       Download the flutter SDK and add flutter to your system PATH.</br>
+       Download the flutter SDK and add flutter to your system PATH, Dart is used for the applicaiton .</br>
   2) Set Up Android Studio</br>
        Install and open android studio and install the flutter and dart plugins.</br>
   3) Set Up an Emulator or Physical Device</br>
