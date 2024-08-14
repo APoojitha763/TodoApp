@@ -23,8 +23,9 @@ Setting Up/ Deploying the Project:</br>
        Configure an android emulator in android studio or else you can connect a physical
        device via USB With enabling the developer mode.</br>
        </br>
+  4) XCode should be used for running the application in macos
        
-Flow of the Project : After all the setting up the environment open Android Studio after setting up the project in the IDE there it self we need to run the project we can use  either the terminal by running the commnad "flutter run" or you can directly run the application by clicking on the run in the menu of the application. After the project is build then i pushed the project into the github by creating new repository and cloning all the files into the new repository.
+Flow of the Project : To get started with the project, first install Flutter on your macOS system by following the guidelines on the Flutter website. After installation, open Android Studio, ensuring that the Flutter and Dart plugins are installed. Load your project into Android Studio by choosing the project directory. Connect an Android device or launch an emulator, then click the run button in Android Studio to build and deploy the app. This will display the application on the connected device or emulator, allowing you to test and interact with it.If you have macos then you need to install XCode in the system for executing smoothly. After the project is build then i pushed the project into the github by creating new repository and cloning all the files into the new repository.
 
 </br>
 ScreenShots of the Todo Application:</br>
